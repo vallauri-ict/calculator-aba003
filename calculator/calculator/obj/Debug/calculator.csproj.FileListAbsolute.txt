@@ -1,9 +1,0 @@
-C:\Users\matte\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
-C:\Users\matte\Desktop\calculator\calculator\bin\Debug\calculator.exe
-C:\Users\matte\Desktop\calculator\calculator\bin\Debug\calculator.pdb
-C:\Users\matte\Desktop\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
-C:\Users\matte\Desktop\calculator\calculator\obj\Debug\calculator.formain.resources
-C:\Users\matte\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
-C:\Users\matte\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
-C:\Users\matte\Desktop\calculator\calculator\obj\Debug\calculator.exe
-C:\Users\matte\Desktop\calculator\calculator\obj\Debug\calculator.pdb
